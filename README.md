@@ -1,7 +1,4 @@
 
-
-https://github.com/user-attachments/assets/8c03fd6e-3e74-443f-bd02-655896229120
-
 # Mortal Kombat Keychain | Onshape CAD Project
 
 ## Overview
