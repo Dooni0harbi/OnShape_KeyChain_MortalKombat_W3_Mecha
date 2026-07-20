@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/8c03fd6e-3e74-443f-bd02-655896229120
+
 # Mortal Kombat Keychain | Onshape CAD Project
 
 ## Overview
@@ -61,13 +65,18 @@ To solve the issue, I followed a systematic engineering approach:
 
 ### Reference Logo
 
-![Reference Logo](assets/reference-logo.jpg)
+
+
+<img width="3840" height="2160" alt="reference-logo jpg" src="https://github.com/user-attachments/assets/13228147-df47-443b-bc7b-fc5f592a783f" />
+
+
 
 ### Final Model
 
 A short animation of the completed model is available in:
 
-`assets/final-model.mp4`
+https://github.com/user-attachments/assets/7e18d118-b8ba-41c8-b08c-5ec7af5f5fed
+
 
 ---
 
