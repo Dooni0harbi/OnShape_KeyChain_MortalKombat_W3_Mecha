@@ -9,6 +9,9 @@ The objective was to recreate a logo using **Onshape** and prepare it as a **3D-
 
 Instead of selecting a simple design, I chose the **Mortal Kombat** logo because of its detailed curves and spline-based geometry, making it a more challenging CAD modeling exercise.
 
+
+OnShape Link:
+https://cad.onshape.com/documents/7f73d78b44bccff20d01772c/w/280d69369bace9c2408faab6/e/9b9f1e6fb56ca32316572a3d
 ---
 
 ## Design Specifications
